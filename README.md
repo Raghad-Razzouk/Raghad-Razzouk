@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **Raghad-Razzouk/Raghad-R# أهلاً بك في ملفي الشخصي! 👋
 
 ### أنا رغد رزوق | مطورة واجهات أمامية (Front-End Developer)
